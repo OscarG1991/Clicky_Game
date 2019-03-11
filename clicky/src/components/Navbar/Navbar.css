@@ -1,0 +1,18 @@
+nav {
+    width: 100%;
+    font-size: 48px;
+    color: black;
+    background-color: lightblue;
+    height: auto;
+    font-family: 'Arial';
+  }
+  
+  nav li {
+    display: inline-block;
+    width: 33.3%;
+  }
+  
+  ul {
+    align-items: center;
+  }
+  

@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Midoriya",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Izuku_Midoriya_school_profile.png/revision/latest?cb=20190129015623",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Bakugo",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/83/Katsuki_Bakugo_School_Uniform_Full_Body.png/revision/latest?cb=20190215054358",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Todoroki",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/c/c4/Shoto_Todoroki_school_profile.png/revision/latest?cb=20170728153443",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Tokoyami",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/b/ba/Fumikage_Tokoyami_Uniform.png/revision/latest?cb=20161230180938",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Ochaco",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/6/69/Ochaco_School_Uniform_Full_Body.png/revision/latest?cb=20190215054343",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Mineta",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/6/66/Minoru_Mineta_Full_Body_School_Uniform_Anime.png/revision/latest?cb=20160118115800",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Yaoyorozu",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/e/eb/Momo_Yaoyorozu_Full_Body_School_Uniform.png/revision/latest?cb=20161230174913",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Tsuyu",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/f/ff/Tsuyu_Asui_Full_Body_School_Uniform_Anime.png/revision/latest?cb=20160118114942",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Iida",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/1/10/Tenya_Iida_Full_Body_School_Uniform.png/revision/latest?cb=20190129175925",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Kirishima",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/3/3a/Eijiro_Kirishima_Student_Uniform_Profile.png/revision/latest?cb=20190129175755",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Hagakure",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/8f/Toru_Hagakure_Full_Body_Uniform.png/revision/latest?cb=20161230191807",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Jiro",
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Kyoka_Jiro_Full_Body_Uniform.png/revision/latest?cb=20161230185934",
+    "clicked": false
+  }
+]
+
