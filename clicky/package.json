@@ -2,6 +2,7 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://oscarg1991.github.io/Clicky_Game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
@@ -14,7 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://oscarg1991.github.io/Clicky_Game/"
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
